@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>CPAS 職業適性評量暨線上職涯諮詢服務填報系統 - 雲林縣榮民服務處</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #f8fafc;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      height: 100dvh;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <!-- 請將 src 替換為您的 Google Apps Script 部署網址 (/exec 結尾) -->
+  <iframe 
+    src="https://script.google.com/macros/s/AKfycbwGfqj1K_1Lw6LWIbw4wtzkjTJKgiF6n1zlvWiPMOPvz5nz8aHR4C3I1MTiTZvCgP2n/exec" 
+    allow="clipboard-write"
+    title="CPAS 職業適性評量暨線上職涯諮詢系統">
+  </iframe>
+</body>
+</html>
